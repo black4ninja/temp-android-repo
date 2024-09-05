@@ -1,0 +1,6 @@
+
+
+Hola esta es una view de UI
+
+
+//Comentarios de la interfaz
