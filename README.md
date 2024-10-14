@@ -6,3 +6,7 @@
     - Se trabajan en los modelos.
     - Se trabajan las vistas.
     - Se agrego trabajo pendiente de modelos - integración de modelo y vista.
+
+## Versión 0.3
+
+### Se empieza nueva versión
