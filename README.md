@@ -10,3 +10,10 @@
 ## Versión 0.3
 
 ### Se empieza nueva versión
+
+- Se trabaja en historia de usuario de consultar evidencias
+    - Se agregan modelos.
+    - Se agregan vistas.
+    - Se agrega integración.
+    - se agregan pruebas.
+    - Se hace validación.
